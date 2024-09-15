@@ -1,4 +1,4 @@
-<img align ="center" alt ="profile" src="https://github.com/Akbarhusain429/Akbarhusain429/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png">
+<img align ="center" alt ="profile" src="https://github.com/Akbarhusain429/Akbarhusain429/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png">
 <h1 align="center">Hi 👋, I'm Akbar husain Chaudhary</h1>
 <h3 align="center">Currently Studing M.Sc IT</h3>
 
