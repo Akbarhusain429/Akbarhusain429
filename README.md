@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akbar husain Chaudhary</h1>
 <h3 align="center">Currently Studing M.Sc IT</h3>
 
-<img align="right"alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b4a3757b-2f76-44f3-8d02-7c4f7e6194fa)"/>
+<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhusain429&label=Profile%20views&color=0e75b6&style=flat" alt="akbarhusain429" /> </p>
 
 <h3 align="left">Connect with me:</h3>
