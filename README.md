@@ -1,4 +1,4 @@
-<img align ="center" alt ="profile" src="https://github.com/Akbarhusain429/Akbarhusain429/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png">
+<img align ="center" alt ="profile" src="https://github.com/Akbarhusain429/Akbarhusain429/blob/main/linkedin%20background%20A.png">
 <h1 align="center">Hi 👋, I'm Akbar husain Chaudhary</h1>
 <h3 align="center">• Aspiring Data Scientist/Analytics | Proficient in Python, My SQL, Machine Learning, Power BI, Tableau, and Excel | Passionate about Data-Driven Insights and Decision-Making</h3>
 
